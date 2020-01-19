@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.elvanerdem.applinksample",
+    "package_name": "com.gt.payment.mpos.dvl",
     "sha256_cert_fingerprints":
-    ["43:59:56:80:EA:E4:40:58:25:8B:58:37:56:81:71:07:67:50:CD:91:2D:77:6D:34:E7:1D:14:B1:7D:8A:34:B6"]
+    ["93:AE:D2:4F:20:E7:C6:2F:AB:E8:3E:AF:45:9A:12:B7:F1:01:7B:7F:ED:EB:D9:38:62:AF:0B:93:17:9A:16:B2"]
   }
 }]
