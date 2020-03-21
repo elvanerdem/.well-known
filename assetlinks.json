@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.gt.payment.mpos.dvl",
-    "sha256_cert_fingerprints":
-    ["93:AE:D2:4F:20:E7:C6:2F:AB:E8:3E:AF:45:9A:12:B7:F1:01:7B:7F:ED:EB:D9:38:62:AF:0B:93:17:9A:16:B2"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gt.payment.mpos",
+      "sha256_cert_fingerprints": [
+        "5A:72:88:23:E0:01:2B:DB:6D:EA:CD:E7:CF:44:0F:EA:4F:10:F4:20:7A:F4:46:B6:7C:3A:83:6F:54:91:D4:CE"
+      ]
+    }
   }
-}]
+]
